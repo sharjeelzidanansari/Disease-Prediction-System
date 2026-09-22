@@ -1,3 +1,10 @@
+# Disease Prediction System
+
+## 🚀 Live Demo
+
+[Click here to use the Disease Prediction System](https://sharjeel-disease-prediction-system.streamlit.app/)
+
+
 # Disease Prediction System (Symptoms → Disease)
 
 Mini Project — 5th Sem ML Lab, AI & Data Science, Anjuman College of Engineering and Technology
